@@ -1,0 +1,15 @@
+{
+    "name": "hostlink/puxt-gql",
+    "description": "puxt gql client library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "email": "mathsgod@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "mathsgod/gql-client": "^1.2"
+    }
+}
