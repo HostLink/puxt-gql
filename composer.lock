@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b0c2b4667015336a2fed404f534a4328",
+    "content-hash": "c30827dbe8f513050ca2842998997d90",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -209,21 +209,21 @@
         },
         {
             "name": "mathsgod/gql-client",
-            "version": "1.2.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mathsgod/gql-client.git",
-                "reference": "3e4f1442d48ed77213ebc8e5537c03bb88b28a3f"
+                "reference": "f864b6f4827dc9169bce673b8dcbe65274ac8d78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mathsgod/gql-client/zipball/3e4f1442d48ed77213ebc8e5537c03bb88b28a3f",
-                "reference": "3e4f1442d48ed77213ebc8e5537c03bb88b28a3f",
+                "url": "https://api.github.com/repos/mathsgod/gql-client/zipball/f864b6f4827dc9169bce673b8dcbe65274ac8d78",
+                "reference": "f864b6f4827dc9169bce673b8dcbe65274ac8d78",
                 "shasum": ""
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3",
-                "php": ">=7.0"
+                "php": "^7.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "^6.5"
@@ -247,9 +247,9 @@
             "description": "A simple GraphQL client tools for php",
             "support": {
                 "issues": "https://github.com/mathsgod/gql-client/issues",
-                "source": "https://github.com/mathsgod/gql-client/tree/master"
+                "source": "https://github.com/mathsgod/gql-client/tree/2.0.0"
             },
-            "time": "2020-06-29T06:52:33+00:00"
+            "time": "2020-12-30T03:58:33+00:00"
         },
         {
             "name": "paragonie/random_compat",

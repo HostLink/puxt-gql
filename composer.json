@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "mathsgod/gql-client": "^1.2"
+        "mathsgod/gql-client": "^2.0"
     },
     "license": "MIT"
 }
